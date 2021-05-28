@@ -97,7 +97,6 @@
   transition: 0.4s;
   z-index: 10;
   opacity: 0.5;
-
 }
 
 .btn_click:hover {
@@ -109,7 +108,6 @@
 /* response */
 @media(max-width: 46.1875em) {
   .Slider_Text {
-
   }
 
   .Slider_Text_content {
