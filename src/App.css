@@ -12,6 +12,10 @@
 html{
     font-size:62.5%;
 }
+.ContainerFull{
+    width: 100%;
+    overflow: hidden;
+}
 .btn{
     background-color: var(--private-color);
     padding: 10px 15px ;

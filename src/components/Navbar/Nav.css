@@ -77,7 +77,7 @@ a{
     .Nav_MenuItem{
         background-color: var(--main-color);
         transform: translateX(-110%);
-        min-height: 90vw;
+        min-height: 90vh;
     }
     .MenuItem{
         text-align: center;
