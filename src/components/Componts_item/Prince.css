@@ -71,3 +71,11 @@
         width: 90%;
     }
 }
+@media(max-width: 46.1875em) {
+    .Prince_Container{
+        padding: 0px;
+    }
+    .Prince{
+        padding: 80px 30px;
+    }
+}
